@@ -1,2 +1,3 @@
 Sky is skyblue
 Grass is green
+blood is red
